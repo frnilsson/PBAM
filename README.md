@@ -1,5 +1,5 @@
-# Peach Bush Almost 1 Mile Race
+# Máire and Dani
 
-![Running Peach and Bush](logo.png)
 
-This repo contains the html and css for the website of the Peachbush Almost 1 Mile Race organized by Fort Greene Track Club.
+
+This repo contains the html and css for our wedding website
